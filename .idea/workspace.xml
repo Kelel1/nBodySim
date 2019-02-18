@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd2466c-7185-4f1c-9cdf-aead8257eae8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj1b/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/Deque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj1b/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/Palindrome.java" afterDir="false" />
@@ -19,10 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="389" />
-    <option name="y" value="130" />
-    <option name="width" value="1330" />
-    <option name="height" value="699" />
+    <option name="y" value="-1" />
+    <option name="width" value="679" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
