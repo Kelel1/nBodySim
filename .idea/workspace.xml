@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd2466c-7185-4f1c-9cdf-aead8257eae8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj1b/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/Deque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj1b/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/Palindrome.java" afterDir="false" />
@@ -36,6 +37,11 @@
             <path>
               <item name="proj0" type="b2602c69:ProjectViewProjectNode" />
               <item name="proj0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj0" type="462c0819:PsiDirectoryNode" />
+              <item name="nBodySim" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
